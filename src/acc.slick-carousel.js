@@ -93,7 +93,7 @@ ACC.slickCarousel = {
 				$(this).find('.product-associated-carousel-vertical').hide();
 			});
 
-		} /* end smallest screen */
+		}
 
 	},
 
